@@ -1,12 +1,11 @@
 # NorthWind-Project
 This project involves creating SQL tables and loading the tables with data
 The main idea is to replicate the Northwind database.
-Below is the schema 
+Below is the schema/diagram for the tables.
 Documentation_Northwind_Project.docx
 SQL Project:
 To replicate the Northwnd database provided by Microsoft SQL
 ![image](https://github.com/OludolapoAnalyst/NorthWind-Project/assets/149260016/3d682ab6-800a-4732-af4b-d795e5943d17)
-
 
 1.	Create the database named ‘Northwnd’
 2.	Use the diagram below to design and create the tables  
@@ -15,8 +14,6 @@ a.	The following tables will be loaded manually with Insert statements (Shippers
 b.	The data for the remaining tables are provided as csv files which should then be loaded into the tables.
 c.	Data for Customer_demographics and Customer_demo are missing but the tables should be created.
 4.	Perform the following:
-
-
 
 
 Appendix a.
@@ -116,8 +113,6 @@ Supplier
 	( 'Alliance Shippers', '1-800-222-0451'),
 	( 'UPS', '1-800-782-7892'),
 	( 'DHL', '1-800-225-5345');
-
-
 
 PART ONE (WILDCRADS):
 
