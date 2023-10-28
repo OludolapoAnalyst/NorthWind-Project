@@ -1,4 +1,3 @@
---Testing Github changes
 CREATE database Northwnd;
 USE Northwnd;
 
